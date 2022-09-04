@@ -24,5 +24,5 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/XxmK7dzlBRAYbMsRe8/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/XxmK7dzlBRAYbMsRe8/giphy.gif" width="300" height="100"/>
 </div>
