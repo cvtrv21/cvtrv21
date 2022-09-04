@@ -19,7 +19,7 @@
   
   <h1>
     Hey there!
-      <img src="https://media.giphy.com/media/3o8doW6inbbV2RwYKs/giphy.gif"/>
+      <img src="https://media.giphy.com/media/3o8doW6inbbV2RwYKs/giphy.gif" width=20px/>
 
   </h1>
 
