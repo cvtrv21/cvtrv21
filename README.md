@@ -16,5 +16,11 @@
   <p>
      <img src="https://komarev.com/ghpvc/?username=cvtrv21&style=flat-square&color=blue" alt=""/>    
   </p>
+  
+  <h1>
+    Hey there!
+      <img src="https://media.giphy.com/media/3o8doW6inbbV2RwYKs/giphy.gif"/>
+
+  </h1>
 
 </div>
