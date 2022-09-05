@@ -26,7 +26,7 @@
    I am a Software Engineer Student and aspiring Full-Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Italy
    - :telescope: I have attended a full-time intensive course as a Java FullStack Developer and I will soon be graduating with a degree in Computer Engineering.
    - :seedling: Exploring Technical Content Writing.
-   - :zap: In my free time, I read tech articles, deepening topics and aperitifs with friends.
+   - :zap: In my free time, I read tech articles, deepening topics and aperitifs with friends...
    - - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/giulio-cutruneo/)
 
   ### :hammer_and_wrench: Languages and Tools :
